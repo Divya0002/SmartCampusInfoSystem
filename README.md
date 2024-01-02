@@ -8,10 +8,6 @@ This project involves analyzing and predicting student grades based on various a
 - [Data Visualization](#data-visualization)
 - [Exploratory Data Analysis (EDA)](#exploratory-data-analysis)
 - [Machine Learning Algorithms](#machine-learning-algorithms)
-- [How to Use](#how-to-use)
-- [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 
