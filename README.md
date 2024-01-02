@@ -14,7 +14,7 @@ This project involves analyzing and predicting student grades based on various a
 This project analyzes and predicts student grades based on various attributes using data visualization and machine learning. It includes exploratory data analysis (EDA), visualization of factors influencing grades, and the implementation of machine learning algorithms for predictive modeling. The project is developed in Python and leverages popular libraries such as Pandas, NumPy, Matplotlib, Seaborn, and Scikit-learn.
 
 ## Dataset
-
+dataset file saved as student-mat.csv
 DATASET DESIGN
 1. School GP (assuming it refers to the name of the school)
 2. Sex F (indicating the student is female)
